@@ -1,2 +1,5 @@
 # porfolio_colab
-Code for portfolio base website
+
+### In Progress
+
+#### Building a static portfolio website with REACT, Bootstrap
