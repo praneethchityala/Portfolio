@@ -1,5 +1,5 @@
-# porfolio_colab
+# Portfolio
 
 ### In Progress
 
-#### Building a static portfolio website with REACT, Bootstrap...
+#### Building a static portfolio website with Bootstrap...
